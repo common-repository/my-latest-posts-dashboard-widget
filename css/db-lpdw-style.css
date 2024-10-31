@@ -1,0 +1,10 @@
+.db-lpdw-widget a {
+	font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;
+	font-size: 13px;
+	font-weight: normal;
+}
+
+.db-lpdw-widget abbr {
+	color:#999;
+	font-size:11px;
+}
